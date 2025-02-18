@@ -1,2 +1,4 @@
-# programing-class
-程式應用課
+###APPLICATION OF PROGRAMMING
+  1. 00 INTRO
+  2. 01 OVERVIEW
+   1. EX01-01 加法器 
