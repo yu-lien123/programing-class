@@ -14,4 +14,10 @@
     3. [EX02-03](class_02_03.ipynb) 新聞寫入gg試算表
     4. [EX02-04](class_02_04.ipynb) 下載寶可夢圖片
     5. [EX02-05](class_02_05.ipynb) 爬電影版
-    6. 
+    6. [EX02-06](class_02_06.ipynb) 開眼電影
+    7. [EX02-07](class_02_07.ipynb) KKDAY
+4. 03 DATA ANALYSIS
+    1. [EX03-01](class_03_01.ipynb) 公司薪資概況
+    2. [EX03-02](class_03_02.ipynb) 公司薪資概況二
+    3. [EX03-03](class_03_03.ipynb) 空氣品質指標
+    4. 
