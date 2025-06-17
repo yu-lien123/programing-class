@@ -20,4 +20,7 @@
     1. [EX03-01](class_03_01.ipynb) 公司薪資概況
     2. [EX03-02](class_03_02.ipynb) 公司薪資概況二
     3. [EX03-03](class_03_03.ipynb) 空氣品質指標
-    4. 
+    4. [EX03-04](class_03_04.ipynb) 薪情平台
+    5. [EX03-05](class_03_05.ipynb) 台股資訊
+    6. [EX03-06](class_03_06.ipynb) 出生人口數
+    7. [EX03-07](class_03_07.ipynb) Tips
