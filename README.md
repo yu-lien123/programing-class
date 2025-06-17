@@ -24,3 +24,23 @@
     5. [EX03-05](class_03_05.ipynb) 台股資訊
     6. [EX03-06](class_03_06.ipynb) 出生人口數
     7. [EX03-07](class_03_07.ipynb) Tips
+5. 04 MACHINE LEARNING
+   1. [EX04-01](class_04_01.ipynb) 汽車數值資料轉換
+   2. [EX04-02](class_04_02.ipynb) 客戶基本資料編碼
+   3. [EX04-03](class_04_03.ipynb) 客戶分群
+   4. [EX04-04](class_04_04.ipynb) 加州房價
+   5. [EX04-05](class_04_05.ipynb) 辨識鳶尾花
+   6. [EX04-06](class_04_06.ipynb) 新聞標題分類
+6. 05 WEB API
+   1. [EX05-01](class_05_01.ipynb) echo bot
+   2. [EX05-02](class_05_02.ipynb) gemini bot
+   3. [EX05-03](class_05_03.ipynb) reply multi-type messages
+   4. [EX05-04](class_05_04.ipynb) reply template messages
+7. 06 HW
+    1. [Web Crawler](hw02.ipynb) 爛番茄爬蟲
+    2. [Data Analysis](hw03.ipynb) 社群軟體使用調查
+
+8. 07 REPORT
+   1. [Web Crawler](hw02.ipynb) 爛番茄爬蟲
+
+
