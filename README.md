@@ -41,6 +41,6 @@
     2. [Data Analysis](hw03.ipynb) 社群軟體使用調查
 
 8. 07 REPORT
-   1. [Web Crawler](hw02.ipynb) 爛番茄爬蟲
+   1. [財經新聞機器人](rp05.ipynb) LINE查詢新聞
 
 
